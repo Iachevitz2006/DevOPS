@@ -3,7 +3,7 @@
 ## 📋 **Resumo do Projeto**
 
 **Disciplina:** Atividades Formativas Desenvolvimento de Software  
-**Aluno:** [SEU NOME]  
+**Aluno:** [THEO IASCHEVITZ DE CARVALHO]  
 **Período:** Semanas 2, 3 e 4  
 **Status:** ✅ 100% Concluído e Dockerizado
 
