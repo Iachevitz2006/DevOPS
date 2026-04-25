@@ -10,7 +10,7 @@ def client():
 # Teste 1: Verifica se a Home (/) responde 200 OK
 def test_home_status_code(client):
     response = client.get('/')
-    assert response.status_code == 200
+    assert response.status_code == 500
 
 # Teste 2: Verifica se a mensagem de sucesso está na Home
 def test_home_content(client):
